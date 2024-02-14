@@ -3,6 +3,30 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Gac",
+      "isDefault": false
+    },
+    {
+      "id": "Sheet1",
+      "isDefault": false
+    },
+    {
+      "id": "Sheet12",
+      "isDefault": false
+    },
+    {
+      "id": "API",
+      "isDefault": false
+    },
+    {
+      "id": "snowflake",
+      "isDefault": false
+    },
+    {
+      "id": "snowflake Copy",
+      "isDefault": false
     }
   ],
   "viewMode": false,
